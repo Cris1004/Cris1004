@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hola, soy @Cris1004 👋
+# Hola, soy Cristhian 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&width=440&lines=Ingeniero+en+Sistemas;Apasionado+por+IoT+y+Tecnolog%C3%ADa;Siempre+aprendiendo+cosas+nuevas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&width=440&lines=Ingeniero+en+Sistemas;Especializado+en+IoT;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cris1004)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cris.85@hotmail.com)
@@ -12,21 +12,21 @@
 
 ## Sobre mí
 
-Soy Ingeniero en Sistemas Electrónicos y de Telecomunicaciones por la Universidad Autónoma de la Ciudad de México (UACM). Me apasiona la tecnología, especialmente el Internet de las Cosas (IoT), la automatización, el desarrollo web y la innovación aplicada a soluciones reales.
+Soy Ingeniero en Sistemas Electrónicos y de Telecomunicaciones por la Universidad Autónoma de la Ciudad de México (UACM). Me apasiona la tecnología, especialmente el Internet de las Cosas (IoT), la automatización, el desarrollo de soluciones prácticas y la innovación aplicada.
 
-He tenido la oportunidad de fortalecer mis conocimientos a través de diversas experiencias y cursos con instituciones como:
+He fortalecido mis conocimientos a través de experiencias y cursos con instituciones como:
 
 - MICROCHIP — Internet de las Cosas (IoT)
 - MICROSIDE — Curso de IoT con Ubidots
 - EBAC — Workshop online de desarrollo web
-- UACM — Participación en simposios de ingeniería enfocados en tecnologías IoT
+- UACM — Participación en simposios de ingeniería enfocados en IoT
 - UNAM — Curso de Linux en el Laboratorio de Intel y Cómputo
 
-Me gusta aprender constantemente, colaborar en proyectos interesantes y crear soluciones que aporten valor.
+Me gusta aprender constantemente, colaborar en proyectos interesantes y crear soluciones con valor real.
 
 ---
 
-## Stack tecnológico
+## Stack Tecnológico
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -40,7 +40,6 @@ Me gusta aprender constantemente, colaborar en proyectos interesantes y crear so
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -52,17 +51,17 @@ Me gusta aprender constantemente, colaborar en proyectos interesantes y crear so
 
 ## Intereses
 
-- Internet de las Cosas (IoT)
-- Desarrollo de soluciones tecnológicas
-- Automatización y sistemas embebidos
-- Cloud y conectividad
-- Mejora continua y aprendizaje constante
+- IoT / Internet de las Cosas
+- Desarrollo tecnológico
+- Automatización
+- Soluciones inteligentes
+- Aprendizaje constante
 
 ---
 
 ## Colaboración
 
-- 💞️ Estoy buscando colaborar en proyectos relacionados con: DIGNAL o MICROSIDE
+- 💞️ Estoy buscando colaborar en proyectos relacionados con DIGNAL o MICROSIDE
 
 ---
 
