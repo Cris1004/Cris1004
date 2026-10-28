@@ -1,16 +1,85 @@
-- 👋 Hi, I’m @Cris1004 
+<div align="center">
 
-Soy Ingeniero en Sistemas Electrónicos y de Telecomunicaciones por la Universidad Autónoma de la Ciudad de México (UACM). A lo largo de mi carrera, he sido reconocido por diversas empresas e instituciones educativas debido a mi destacada participación en proyectos tecnológicos. Entre los reconocimientos más significativos se incluyen:
+# Hola, soy @Cris1004 👋
 
-- MICROCHIP: (Internet de las Cosas - IoT)
-- MICROSIDE: (Curso de IoT - Plataforma Ubidots)
-- EBAC: (Workshop online - Desarrollo de página web)
-- UACM: Participación en los Simposios de Ingeniería enfocados en Tecnologías IoT
-- UNAM: (Curso de Linux - Laboratorio de Intel y Cómputo)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&width=440&lines=Ingeniero+en+Sistemas;Apasionado+por+IoT+y+Tecnolog%C3%ADa;Siempre+aprendiendo+cosas+nuevas" alt="Typing SVG" />
 
-- 💞️ I’m looking to collaborate on  DIGNAL o MICROSIDE
-  
-- 📫 How to reach me Personal cris.85@hotmail.com o Profesional ing.cristhian.g.ch@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cris1004)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cris.85@hotmail.com)
+[![Email Profesional](https://img.shields.io/badge/Email_Profesional-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ing.cristhian.g.ch@gmail.com)
+
+</div>
+
+## Sobre mí
+
+Soy Ingeniero en Sistemas Electrónicos y de Telecomunicaciones por la Universidad Autónoma de la Ciudad de México (UACM). Me apasiona la tecnología, especialmente el Internet de las Cosas (IoT), la automatización, el desarrollo web y la innovación aplicada a soluciones reales.
+
+He tenido la oportunidad de fortalecer mis conocimientos a través de diversas experiencias y cursos con instituciones como:
+
+- MICROCHIP — Internet de las Cosas (IoT)
+- MICROSIDE — Curso de IoT con Ubidots
+- EBAC — Workshop online de desarrollo web
+- UACM — Participación en simposios de ingeniería enfocados en tecnologías IoT
+- UNAM — Curso de Linux en el Laboratorio de Intel y Cómputo
+
+Me gusta aprender constantemente, colaborar en proyectos interesantes y crear soluciones que aporten valor.
+
+---
+
+## Stack tecnológico
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Backend y datos
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## Intereses
+
+- Internet de las Cosas (IoT)
+- Desarrollo de soluciones tecnológicas
+- Automatización y sistemas embebidos
+- Cloud y conectividad
+- Mejora continua y aprendizaje constante
+
+---
+
+## Colaboración
+
+- 💞️ Estoy buscando colaborar en proyectos relacionados con: DIGNAL o MICROSIDE
+
+---
+
+## Contacto
+
+- Personal: cris.85@hotmail.com
+- Profesional: ing.cristhian.g.ch@gmail.com
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cris1004&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cris1004&layout=compact&theme=tokyonight)
+
+</div>
 
 <!---
 Cris1004/Cris1004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
